@@ -82,5 +82,3 @@ Este sistema nace como solución a problemas identificados en la operación diar
 
 ---
 
-## 🗂 Estructura del repositorio
-
