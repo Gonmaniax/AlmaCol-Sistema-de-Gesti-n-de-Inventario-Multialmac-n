@@ -85,5 +85,5 @@ Este sistema nace como solución a problemas identificados en la operación diar
 El sistema **AlmaCol** gestiona múltiples tablas que representan las entidades clave para el control de inventario distribuido en diferentes almacenes. A continuación se describe el propósito de cada tabla y su relación con los procesos del sistema.
 
 ### 📋 Tablas principales
-![Diagrama de Casos de Uso](Tabla0.png)
-![Diagrama de Casos de Uso](Tabla1.png)
+![Dicionario de datos](Tabla0.png)
+![Dicionario de datos](Tabla1.png)
