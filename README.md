@@ -36,7 +36,7 @@ Este sistema nace como solución a problemas identificados en la operación diar
 
 ## 📌 Diagrama de Casos de Uso
 
-![Diagrama de Casos de Uso](ruta/de/tu/diagrama.png)
+![Diagrama de Casos de Uso](Diagrama.png)
 
 *Este diagrama muestra las funcionalidades del sistema agrupadas por actor y relaciones entre casos de uso.*
 
